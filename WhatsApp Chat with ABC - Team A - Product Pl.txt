@@ -1,0 +1,42 @@
+25/01/21, 1:50 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+25/01/21, 1:47 pm - CA Sanjay created group "ABC - Team A - Product Pl"
+25/01/21, 1:50 pm - CA Sanjay added you
+27/01/21, 2:36 pm - +91 77259 75182: ProductPlan.pptx (file attached)
+ProductPlan.pptx
+04/02/21, 7:23 pm - +91 77259 75182: Product Design#2.pptx (file attached)
+Product Design#2.pptx
+05/02/21, 8:41 pm - Adokshaj Bhandarkar: ProductDesign#1.pptx (file attached)
+ProductDesign#1.pptx
+13/02/21, 8:31 pm - Adokshaj Bhandarkar: https://www.dropbox.com/sh/b5c9vdnak5q5bll/AAAmdEVocvy1Lv-9jdgq8tata?dl=0
+14/02/21, 4:02 pm - Adokshaj Bhandarkar: Sir, please ignore the previous link
+14/02/21, 4:03 pm - Adokshaj Bhandarkar: I have made a new version of the module, this version has some bug fixes and saves the entered data automatically to .csv instead of .txt file.
+14/02/21, 4:04 pm - Adokshaj Bhandarkar: You can directly access the information in Excel or any other spread sheet program
+14/02/21, 4:04 pm - Adokshaj Bhandarkar: https://www.dropbox.com/sh/ed5b5k0up4h2tq5/AABEWkN3lf921C9wOMX_xBH8a?dl=0
+14/02/21, 4:05 pm - Adokshaj Bhandarkar: No need to install Python for the module to work
+16/02/21, 8:11 am - Adokshaj Bhandarkar: https://www.dropbox.com/sh/jvynfrpwzuvjfer/AAC2zXKXH1MksgtfTqHIM7kja?dl=0
+16/02/21, 8:12 am - Adokshaj Bhandarkar: GST Module
+19/02/21, 10:20 am - Adokshaj Bhandarkar: https://www.dropbox.com/sh/t58pd3p1g06rirt/AACFwzs6hlmfAGcB8O0GUhqja?dl=0
+19/02/21, 10:21 am - Adokshaj Bhandarkar: Users can choose which module to run, single database for both PAN and GST info
+19/02/21, 10:22 am - Adokshaj Bhandarkar: But the info in the database is not stored the way it was expected
+23/03/21, 7:57 am - CA Sanjay: Prashant both of you start working on web based app to create login page first
+23/03/21, 9:58 am - CA Sanjay: Web based app...refer app called quickbooks
+25/04/21, 7:51 am - CA Sanjay: Atmanirbhar Business Consultancy LLP
+No.296, 4th Floor, S V Tower, opp. to Hotel Janatha, Wilson Garden, Bengaluru, Karnataka 560027
+# 8123908037
+25/04/21, 7:52 am - CA Sanjay: 26 April 2021 as last date
+12/08/21, 1:17 pm - +91 81239 08037: Hi yes. It’s all most ready pls share ur pan card copy or Aadhaar card, Date u join the internship and last date of working. 
+Also send me ur email address
+12/08/21, 1:49 pm - +91 77259 75182: prashansingh890@gmail.com
+12/08/21, 1:50 pm - +91 81239 08037: Ok
+12/08/21, 1:57 pm - Adokshaj Bhandarkar: 25 January 2021 - 26 April 2021 (Duration of the internship)
+12/08/21, 1:57 pm - Adokshaj Bhandarkar: badokshaj57@gmail.com
+16/08/21, 11:33 am - Adokshaj Bhandarkar: You can see the Sign Up/ Sign In page in action here:
+16/08/21, 11:33 am - Adokshaj Bhandarkar: https://atmaa.herokuapp.com/
+30/08/21, 12:11 pm - +91 81239 08037: Internship Completion Certificate_Prashant.pdf (file attached)
+Internship Completion Certificate_Prashant.pdf
+30/08/21, 2:03 pm - +91 81239 08037: Internship Completion Certificate_P ADOKSHAJABHANARKAR.pdf (file attached)
+Internship Completion Certificate_P ADOKSHAJABHANARKAR.pdf
+07/09/21, 10:37 am - +91 81239 08037: Adokshaj.pdf (file attached)
+Adokshaj.pdf
+07/09/21, 10:37 am - +91 81239 08037: Prashant.pdf (file attached)
+Prashant.pdf
